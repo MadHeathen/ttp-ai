@@ -1,0 +1,4 @@
+numpy
+paddleocr
+pillow
+streamlit
