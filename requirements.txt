@@ -1,5 +1,6 @@
 numpy
 paddleocr
+paddlepaddle
 pillow
 streamlit
 flask
